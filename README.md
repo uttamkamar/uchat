@@ -9,10 +9,10 @@ all kind of basic operations is done here
 
 ## credential for test
 
-user: test
+user: test <br>
 secret: test1234
 
-user: demo
+user: demo<br>
 secret: demo1234
 
 # to test this app use this credential for login
